@@ -1,2 +1,1 @@
-# python-practice
-Python implementation of algorithms
+Implementations made during coding practice
