@@ -43,7 +43,6 @@ void diceRoll(int num_dices)
 }
 
 int main() {
-  std::cout << "Hello World!\n";
   diceRoll(2);
   return 0;
 }
